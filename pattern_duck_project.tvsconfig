@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.Flock" Type="System.String" Value="src" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.AbstractDuckFactory" Type="System.String" Value="src" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DuckSimulator" Type="System.String" Value="src" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Goose" Type="System.String" Value="src" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Observable" Type="System.String" Value="src" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.pattern_duck" Type="System.String" Value="pattern_duck" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Quackable" Type="System.String" Value="src" Category="General" IsBrowsable="False" />
+</TgConfig>

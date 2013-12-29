@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.530,=C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:14:51.832,=C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:16:17.235,F:\Programs\pattern_pattern\src\Duck.pas=C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:16:28.822,F:\Programs\pattern_pattern\pattern_duck.dproj=C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2013.12.28 18:44:20.935,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:44:31.951,F:\Programs\pattern_pattern\src\Honk.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:45:05.409,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:45:17.967,F:\Programs\pattern_pattern\src\Quackable.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 18:49:00.447,F:\Programs\pattern_pattern\src\Goose.pas=F:\Programs\pattern_pattern\src\Honk.pas</Transaction>
+    <Transaction>2013.12.28 19:04:40.220,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 19:05:04.856,F:\Programs\pattern_pattern\src\AbstractDuckFactory.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 19:17:11.214,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 19:17:24.133,F:\Programs\pattern_pattern\src\DuckSimulator.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 20:01:26.755,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 20:01:34.887,F:\Programs\pattern_pattern\src\Flock.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 20:36:12.291,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.28 20:36:23.798,F:\Programs\pattern_pattern\src\Observable.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.29 11:37:53.785,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:37:57.370,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:58.772,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\AbstractDuckFactory\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:58.822,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Duck\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:58.922,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Observable\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:58.952,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\pattern_duck\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:58.992,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Quackable\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:59.062,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Flock\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:59.142,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\DuckSimulator\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:37:59.262,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Goose\default.txvpck</Transaction>
+    <Transaction>2013.12.29 11:38:17.308,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Duck\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:40:15.805,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\AbstractDuckFactory\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:40:31.037,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\DuckSimulator\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:40:49.263,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Flock\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:40:58.917,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Goose\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:41:06.488,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Observable\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:41:15.211,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\pattern_duck\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:41:17.895,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Quackable\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 11:48:52.829,=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.29 11:49:09.763,F:\Programs\pattern_pattern\src\QuackLogist.pas=F:\Programs\pattern_pattern\Unit1.pas</Transaction>
+    <Transaction>2013.12.29 12:17:12.831,F:\Programs\pattern_pattern\src\Interfaces.pas=F:\Programs\pattern_pattern\src\Quackable.pas</Transaction>
+    <Transaction>2013.12.29 12:17:26.912,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Interfaces\default.txvpck</Transaction>
+    <Transaction>2013.12.29 12:17:26.982,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\QuackLogist\default.txvpck</Transaction>
+    <Transaction>2013.12.29 12:17:27.082,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\Interfaces\default.txaPackage</Transaction>
+    <Transaction>2013.12.29 12:17:27.112,=F:\Programs\pattern_pattern\ModelSupport_pattern_duck\QuackLogist\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
